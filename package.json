@@ -1,0 +1,21 @@
+{
+  "private": false,
+  "name": "auto-add",
+  "keywords": [
+    "auto-add",
+    "puppeteer"
+  ],
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^13.5.2"
+  },
+  "bin": {
+    "auto-add": "bin/index.js"
+  }
+}
