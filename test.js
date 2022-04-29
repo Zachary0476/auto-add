@@ -1,8 +1,7 @@
-const fs = require("fs");
+let arr =
+  "oa5axm0slgzmqydt/efjqfavn/xxrehdbc/jdknwriz/pmt9jkfw/	0r1az3ld/fent9g4p/hpdoxjcp/gapi6d7w/	fhcsajfl/nxjcbami/avcpmrz7/bat2u3vq/pvvcfbsv/a9tu1kin/bdeckiza/	wdxp8xwy/bnj74wzm/adys8axm/tngqq0ru/cymqlhkd/	pqzcnghe/	4lishogj/	gpxyi1cv/	vi5nb7iz/	x7zpydy5/	7ezjzyu5/	ohmz521a/	trm7wzvc/	mzbjvp0p/	5pqc6fo3/	ugev2swt/	87cuyfibveaxiqyj/	kmqnsqujolferjrw/	3a9plejp/	azf35f7e/	zdn0skst/	jpzfjwkg/	7asqoekk/	d2ncagua/	xik4z550/	zrntbjgc/	abrzeuws/	l6ceg9ms/	6sih4vho/	ewme1k3k/	xkadbktg/	8ezhdnfi/	jrohjqsh/	der4xuln/	kzgoakwg/	8ji4jza5/	0f6ru07v/	l23zumfy/	r6ujohuyq1k4hf2h/	lv7cje21fkmmchra/	ooineszt/	jzgi68tk/	nrkyebgz/	1ckj2uad/	7asqoekk/	rkb8gvfcgmhswgxy/	of1wzxhd/	wdu8skfpbsgzptyt/	1of0llkc/	nhes5al5/	zzgislz0/	cwehegoc/	0splsq58d3vx0biu/	y63sc4vgwnswwatw/	j2j6jbfiqbftl22z/	a6j0volhnvexvkyh/	v5irm8oygvbqlq74/	n3ajuigu/	75asvzcb/	ojhetoeo/	1r3m4h1a/	nut6irzt/	8h3gz3hs/	offncznt/	umbbx66nt7hxajtd/	wpjh5c75/	vphg6sfoeeidsqgs/	hyti2dnp/	jrgfugev/	ougfufs2/	ipnpcpyi/	w6t2fpmj/	3xp88nut/	jdzcjivy/	pfysvlak/	xriwwbmv/	xqdvs8eo/	/	c9b5u4oa/	dojfip4v/	ntwonftx/	i1ji3iet/	gnc9qkiu/	abtjlazvfanwhjiu/	trlyllnn/	kp77j5i1/	/	sagy9jtq/	eekxsx7w/	b79jrsww/	xvbcoosh/	ra8d1cdh/	h28yje36/	cetti9qr/	vw8x4aqa/	cl3ze8al/	65l0umq6/	oxmj9ntz/	wfbmk563/	wr8vglmr/	ylbvaygq/	lt09mnnv/	gxsee8xg/	qonaiytd/	dwcwfp4u/	pf8qqyj2/	anjfrpxe/	rlbblagt/	ktdhbofe4oaxvpmi/	f3cwmgynbs1jx2of/".replace(
+    /\s*/g,
+    ""
+  );
 
-const person = {
-  name: "zacahry",
-  sex: "man",
-};
-
-fs.writeFileSync("./log.txt", JSON.stringify(person));
+console.log(arr);

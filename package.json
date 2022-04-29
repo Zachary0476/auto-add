@@ -1,21 +1,21 @@
 {
   "private": false,
-  "name": "auto-add",
+  "name": "auto-add-pid",
   "keywords": [
     "auto-add",
     "puppeteer"
   ],
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Zachary0476/auto-add"
   },
   "license": "MIT",
   "dependencies": {
     "puppeteer": "^13.5.2"
   },
   "bin": {
-    "auto-add": "bin/index.js"
+    "auto-add-pid": "bin/index.js"
   }
 }

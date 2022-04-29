@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-const { startPipeLine } = require("../src/index");
+const { terminalInteraction } = require("../src/index");
 
-startPipeLine();
+terminalInteraction();
